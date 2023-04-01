@@ -1,0 +1,124 @@
+>Query_10001 HLA-A*0101
+--MY----------YQE--NMHT--DNTLYIYYR--D--Y-TKW--VAQ-RYRGRYTQ-----D----
+>Query_10002 HLA-A*0201
+---YMYTY--FM--YERKVAAHT--TVDTLYSRYHYY--IGTKWA-VQLYYT-----W-----TGRY-
+>Query_10003 HLA-A*0203
+---Y-Y---------EK--VAH---TVDTLYR-Y--Y--Y-TKW--EQW-YT-----W-----Y----
+>Query_10004 HLA-A*0205
+-------------YY-----YEKVVYD-----YY--R--D-TKW---QW-Y------W-----Y----
+>Query_10005 HLA-A*0206
+--MY-YM-------YEK--VAHQ--TVDTLYRYH--Y--Y-TKW--VQL-YT-----W-----Y----
+>Query_10006 HLA-A*0207
+--MY-Y---------EK--VAH---TVDTLYR-H--Y--Y-TKW--VQL-YT-----W-----Y----
+>Query_10007 HLA-A*0224
+GMYF-Y---------EK---VH---TVDTLYRYH--Y--Y-TKW--VQL-Y------W-----Y----
+>Query_10008 HLA-A*0301
+--MY----------YQE--NVAQ--TDT---YYR--D--Y-TKW--AEQ-LY----TW-----Y----
+>Query_10009 HLA-A*0362
+-------------MYYE----NA-QTD-TLYY----R-DY-TKWE--QL-Y------W-----Y----
+>Query_10010 HLA-A*1101
+----------Y---YYE----NVQQTVDTLYI-YRDY--W-TKWA-AQQ-Y------W-----Y----
+>Query_10011 HLA-A*2301
+--YM----------YEK--VAHT---ENIYF-FH--Y--Y-TKW--VQQ-YTDGGY------------
+>Query_10012 HLA-A*2402
+--MY----------YEE--KVHT--DENIYLMFH--Y--Y-TKW--VQQ-YT-GRY------------
+>Query_10013 HLA-A*3001
+-------------MYYE----NV-QTD-TLYI----Y-HY-TKWW--QL-Y------W-----Y----
+>Query_10014 HLA-A*3003
+----------YS-MYYE----NV-HTDNTLYI----YEHY-TKWR--QL-Y------W-----Y----
+>Query_10015 HLA-A*6801
+------------MYYYN----NNAQTVDTLY-----Y-DY-TKWA-VQW-YY-----W-----Y----
+>Query_10016 HLA-A*9234
+---M-Y---------ER--KVH---T-DTLYRY---Y--Y-TKW--VQL-Y------W-----Y----
+>Query_10017 HLA-A*9235
+--MY-Y---------EK---VH---T-DT-YRYH--Y--Y-TKW--VQL-Y------W-----Y----
+>Query_10018 HLA-A*9253
+-------------MY-----YEKHTVDTR-------Y--Y-TKW----Y-T------W-----Y----
+>Query_10019 HLA-B*0602
+--------------YDS---YEKYRQA--NK-YW--Y--Y-TKWE--QW-Y------W-----Y----
+>Query_10020 HLA-B*0702
+--YY----------YRN--IYAQ--TESNLYLYD--Y--Y-TKWA-EQR-YE-----W-----Y----
+>Query_10021 HLA-B*0801
+--MY-D-F--F---YRNQIFTNNQTDESNLYLSY-NY--Y-TKWA-VQD-Y-----TW-----Y----
+>Query_10022 HLA-B*1402
+--YYSVFE------YRN--ICTN--TDSNLYLWY--F--Y-TKW---EL-YT-----W----------
+>Query_10023 HLA-B*1501
+--MY-YMA--FM--YRIEISTNTYT-ESNLYLRYDSY--I-TKWA-EQW-Y-----LW-----Y----
+>Query_10024 HLA-B*1557
+------------------------YQWNTLYRYE--F--YWTKWA----AYW----------------
+>Query_10025 HLA-B*1801
+---Y-H-S------YRN--ITN--TYESNLYLRY-SY----TKW--VQY-T------W----------
+>Query_10026 HLA-B*2703
+---Y-HT------EHRE--IC----TEDTLYLYHD-Y----TKWV--QL-Y-----EW-----Y----
+>Query_10027 HLA-B*2705
+--MY-HTVGFVRFEYRE-QICAK--TEDTLYLYHD-Y----TKWY-VQLAY-----EW-----YGGGT
+>Query_10028 HLA-B*2709
+--MY-HT------EYRE-QICAK--TEDTLYYYHH-Y----TKWA-VQL-Y-----EW-----Y----
+>Query_10029 HLA-B*2713
+--MY-HTTVGFE-EYREYEICAK--TEDTLYLYHDAY----TKWARVQLYG-----EW-----WY---
+>Query_10030 HLA-B*3501
+--MM------Y---YRNQIFTN--TYESNLYIRY-DS--Y-TKWA-QLY-Y-----YW-----Y----
+>Query_10031 HLA-B*3505
+---------------------------------------Y-SGFY-NDMNHN-----S-----YPG--
+>Query_10032 HLA-B*3508
+--MY------Y---YRNQIFTN--TYESNLYIIR-YS--Y-TKWA-VQR-Y-----EW-----Y----
+>Query_10033 HLA-B*3901
+---Y-Y-S---E--YRN--ICT--T-ESNLYLRY-FY----TKW--VQL-Y------W-----Y----
+>Query_10034 HLA-B*4001
+--MY-HTK------YRE--ITNT----ESNYRYY-------SKVQ-----Y------W-----Y----
+>Query_10035 HLA-B*4002
+--MY-H-T--FK--YRE--ISN--TYESNLYLSY-YY--I-TKW--VQL-Y-----EW-----Y----
+>Query_10036 HLA-B*4044
+--MY-H-T--FK--YRE--ISN--TYESNLYLSY-YY--I-TKW--VQL-Y-----EW-----Y----
+>Query_10037 HLA-B*4102
+---Y-HTK------YRE--I-----TESNLYLY---Y--Y-TKW---QD-Y------W-----Y----
+>Query_10038 HLA-B*4104
+--MY-HTK------YRE--I-SN--TESNLYLY---Y--Y-TKWA-VQD-YT-----W-----Y----
+>Query_10039 HLA-B*4201
+---Y----------YRN--IYAQ--TESNLYLY---Y--Y-TKWA-VQD-Y------W-----Y----
+>Query_10040 HLA-B*4202
+---Y----------YRN--IYAQ--TESNLYLY---Y--Y-TKWA-VQD-Y------W-----Y----
+>Query_10041 HLA-B*4402
+--MY-YTK------YRE--ISNT---YENTYIRYD-Y----TKWA------V-----QDYLSRY----
+>Query_10042 HLA-B*4403
+--MY-YTK------YRE--I--T---TENTYIRYDDY----TKWA------V-----QLYLSRY----
+>Query_10043 HLA-B*4405
+--MY-YTK------YRE--I--T---TENTYIYY--Y----TKWE------V-----QDYLSRY----
+>Query_10044 HLA-B*4601
+--MY----------YRE--KYQT--V-SNLY--R--Y--Y-TKW--EQW-YL-----W-----Y----
+>Query_10045 HLA-B*5101
+---Y----------YYN--IFNT--YENIYW--Y--Y--Y-TKW--EYL-YL-----W----------
+>Query_10046 HLA-B*5301
+---Y-Y--------YRN--IFTN--TY-NIYRY---D--Y-TKW--VQL-Y------W-----Y----
+>Query_10047 HLA-B*5701
+---------------------------FSWEHHFNIY--LAPSYESSDFRHS-----W-----E----
+>Query_10048 HLA-B*5703
+-MYY----------YGE--NTST--NIYIYY--A--Y--Y-TKW--VQL-YL-----W-----Y----
+>Query_10049 HLA-B*5706
+-------------MYYE----NS-TN---IYI----Y--Y-IKW---QL-Y------W-----Y----
+>Query_10050 HLA-B*5712
+-------------MYYE----NM-TYNNYIYD----Y--W-TKW---QL-Y------W-----Y----
+>Query_10051 HLA-B*5801
+--------------YYE----N--STYENIYIRYSAY--Y-TKWA-VQL-Y------W-----Y----
+>Query_10052 HLA-B*8102
+--MY-Y--------YRN--IYAQ--TESNLY-YN--Y--Y-SK---AVQ-LY-----W-----Y----
+>Query_10053 HLA-B*8103
+---Y-Y--------YRN--IYAQ--TESN-Y-YN--Y--Y-SK---VQD-YE-----W-----Y----
+>Query_10054 HLA-B*9234
+---M-Y---------EK----H---T-DTLYRY---Y--Y-TKW--VQY-T------W-----Y----
+>Query_10055 HLA-C*0102
+-----------------------------------------EKYM--DL-YQGG--SN-----YNE--
+>Query_10056 HLA-C*0304
+-----------------------------LHTYP--YL------------------------------
+>Query_10057 HLA-C*0401
+-------------YY-----REKYRQDNKLYLRF--F--Y-TKW----R-Y------W-----Y----
+>Query_10058 HLA-C*0517
+-------------MY-----YEK-RQTNKLYRYN--F--Y-TKW---ER-Y------W-----Y----
+>Query_10059 HLA-C*0602
+-------------MYDS---YEKYRQADVNKLYW--Y--Y-TKW---QW-Y------W-----Y----
+>Query_10060 HLA-C*0756
+---Y-DFS------YRE--KYQ---AVSNLYRS---D--Y-TKL--AQL-YT-----W-----Y----
+>Query_10061 HLA-C*1510
+--MY-----FFM-YYYE----NMQTYVDTIYIYDSDYE--STKWV-AQL-YL---CHW-----Y----
+>Query_10062 HLA-C*1604
+--YY----------YRN--IFNT--YESNLY--R--Y--Y-TKW---QL-YL-----W-----Y----
