@@ -1,7 +1,7 @@
 # ComputationalBiophysics Term project
 
 ### Instructions for Running the Scrapper:    
-1. Install the beautifulSoup and Selenium modules using `pip install beautifulsoup4` & `pip install selenium` commands.     
+1. Install all required modules with `pip install -r requirements.txt`.     
 2. Download suitable chrome driver version from 'https://chromedriver.chromium.org/downloads'    
 3. Change the path to chromedriver in `imgt_scrape.py` to the path where chrome driver is present.    
 4. Run the imgt_scrape.py file to scrape all the data for humans & pMH1 from IMGT-3Dstructure-DB website.    
